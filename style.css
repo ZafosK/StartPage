@@ -8,7 +8,7 @@
 .container{
 	top: 5%;
 }
-}
+} 
 
 @media only screen and (max-width: 1400px) {
 
@@ -17,7 +17,7 @@
 }
 }
 
-
+ 
 
 @font-face {
 	font-family: 'iosevka';
@@ -39,14 +39,14 @@
 html, body{
 	margin: 0;
 	padding: 0;
-	background: url(bg.jpg) no-repeat center center fixed;
+	background: url(bg.jpg) no-repeat center center fixed; 
 	background-color: #141516;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
   	background-size: cover;
-	color: #262928;
-	font-size: 18px;
+	color: #FFFFFF;
+	font-size: 14px;
 }
 
 * {
@@ -79,7 +79,7 @@ html, body{
 	background-color: #282a36;
 	margin: 4px;
 	padding: 8px;
-	border: 5px solid #282a36;
+	border: 5px solid #c3d4c3;
 }
 
 
@@ -97,8 +97,8 @@ html, body{
 	-webkit-box-flex: 1;
 	margin: 4px;
 	padding: 8px 8px 8px 8px;
-	background-color: #0a0a0a;
-	border: 5px solid #282a36;
+	background-color: #282a36;
+	border: 5px solid #c3d4c3;
 }
 
 .linksbox h3 {
@@ -146,7 +146,7 @@ h3 {
 .green {
 	font-weight: bold;
 	padding: 0;
-	color: #663399;
+	color: #00FF00;
 }
 
 .pink {
@@ -157,16 +157,6 @@ h3 {
 .neonred {
 	padding: 0;
 	color: #ce6d88;
-}
-
-.bluestar {
-	padding: 0;
-	color: #333399;
-}
-
-.techblack {
-	padding: 0;
-	color: #aa9df2
 }
 
 form {
