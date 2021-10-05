@@ -42,10 +42,10 @@ html, body{
 	background: url(Untitled.jpg) center center fixed; 
 	background-color: #141516;
 	background-repeat: repeat;
-	-webkit-background-size: cover;
+	/*-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
-  	background-size: cover;
+  	background-size: cover;*/
 	color: #282a36;
 	font-size: 14px;
 }
